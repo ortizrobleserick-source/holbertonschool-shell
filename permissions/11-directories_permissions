@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type -exed chmod a+x {} +
+find . -type -exed chmod 711 {} +
